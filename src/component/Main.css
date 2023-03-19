@@ -1,0 +1,27 @@
+.btns {
+    width: 100px;
+    height: 40px;
+    display: inline;
+    position: relative;
+    bottom: 70px;
+    left: 1500px;
+}
+
+.mainbtn {
+    padding: 15px;
+    margin: 10px;
+}
+
+
+.sqare {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    display: inline;
+    padding: 150px;
+    margin: 50px;
+    position: relative;
+    top: 300px;
+    
+}
