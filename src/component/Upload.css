@@ -1,14 +1,38 @@
+.resister {
+    width: 90px;
+    height: 40px;
+    position: relative;
+    left: 1800px;
+    bottom: 50px;
+    border-radius: 5px;
+    border-color: currentColor;
+}
+
+
 .space {
-    width: 250px;
-    height: 20px;
+    width: 280px;
+    height: 40px;
     background-color: white;
     border: 1px solid black;
+    position: relative;
+    left: 1200px;
+    top: 100px;
+    margin: 25px;
+    border-radius: 3px;
+    
     
 }
 
 .comment {
-    width: 250px;
+    width: 280px;
     height: 200px;
     background-color: white;
     border: 1px solid black;
+    position: relative;
+    left: 1200px;
+    margin: 25px;
+    top: 100px;
+    border-radius: 3px;
+   
+
 }

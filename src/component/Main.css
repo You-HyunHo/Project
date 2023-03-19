@@ -1,27 +1,48 @@
-.btns {
+.mainbtn {
     width: 100px;
     height: 40px;
     display: inline;
     position: relative;
     bottom: 70px;
     left: 1500px;
+    margin: 10px;
+    border-radius: 5px;
+    border-color: currentColor;
 }
 
-.mainbtn {
-    padding: 15px;
-    margin: 10px;
+.subbtn {
+    width: 70px;
+    height: 30px;
+    margin: 30px;
+    position: relative;
+    left: 750px;
+    color: white;
+    background-color: gray;
+    border-radius: 8px;
+    border-color: currentColor;
 }
 
 
 .sqare {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
+    display: inline;
     background-color: white;
     border: 1px solid black;
-    display: inline;
+    
     padding: 150px;
     margin: 50px;
     position: relative;
-    top: 300px;
+    top: 250px;
+    left: 30px;
+    
+}
+
+.label {
+    position: relative;
+    top: 450px;
+    left: 45px;
+    display: inline;
+    margin: 40px;
     
 }
