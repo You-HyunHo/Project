@@ -1,10 +1,12 @@
 import './App.css';
 //import Main from './component/Main';
-import Upload from './component/Upload';
+//import Upload from './component/Upload';
+//import Login from './component/Login';
+import Signup from './component/Signup';
 
 function App() {
   return (
-   <Upload/>
+   <Signup/>
   );
 }
 

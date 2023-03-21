@@ -1,13 +1,19 @@
-import './login.css'
+import './Login.css'
 
 function login() {
     return (
         <div className="login">
-            <h1>로그인 페이지</h1>
-            <input type="text" placeholder="Username"/>
-            <input type="password" placeholder="****"/>
+            <h2>Show me your space</h2>
+            <input className="subtitle" placeholder="LOG IN" />
+            <p>
+                <input className="id" type="text" placeholder="Username" />
+            </p>
+            <input className="password" type="password" placeholder="****" />
+            <p>
+                <button className="click">click me!</button>
+            </p>
         </div>
-        
+
 
     )
 
